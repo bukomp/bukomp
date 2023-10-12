@@ -1,79 +1,58 @@
 # Welcome traveler, I'm Edvard Shalaev 👋
 
-<img style="margin-left: 20px" align="right" src="https://media0.giphy.com/media/PTBVMsYIOB0SBP4MVe/200w.gif?cid=82a1493bt3bhqqoo4iwo6divl336ywxlud37x521st9w232q&ep=v1_gifs_related&rid=200w.gif&ct=g">
-
-
+<img align="right" src="https://media2.giphy.com/media/wwg1suUiTbCY8H8vIA/200w.gif?cid=6c09b952mmm5zgskvx7ws67um89ns39yt1ietu3sxg6sy8h2&ep=v1_gifs_search&rid=200w.gif&ct=g" height="300px">
 
 <!-- badges from https://github.com/pujux/badge-it#readme -->
-<img  src="https://badges.pufler.dev/visits/bukomp/badge-it">
-<img  src="https://badges.pufler.dev/years/bukomp">
-<img  src="https://badges.pufler.dev/commits/yearly/bukomp">
-
-
-
-## 👾 Towards the undefined...
-
-### _Oh, you found me :D_<br>
-Well, nice to meet you! ❤️<br>
-I recommend checking out at least [Shorts Remover Plugin](https://github.com/bukomp/remove-shorts-plugin) - treat your productivity __:3__
-
-_By the way, I'm super into OpenAI, Stable-Diffusion and LLMs!🚀🌌_
-
-<br>
-
-<div style="float: right; margin-right: 30px">
-  <h3>📫 How to reach me</h3>
-  <ul style="list-style-type: none;">
-    <li><a href="https://www.linkedin.com/in/edvardshalaev/">LinkedIn</a></li>
-    <li><a href="mailto:edvard@shalaev.com">Email</a></li>
-  </ul>
+<div>
+  <img align="top" src="https://badges.pufler.dev/visits/bukomp/badge-it">
+  <img  align="top" src="https://badges.pufler.dev/years/bukomp">
+  <img  align="top" src="https://badges.pufler.dev/commits/yearly/bukomp">
 </div>
 
+### Found Me, Huh? 😄
+Nice to meet you! ❤️ I'm a progress-driven developer who thrives on new challenges. Whether it's mastering back-end logic or sprucing up the frontend, I'm your guy. Check out [Shorts Remover Plugin](https://github.com/bukomp/remove-shorts-plugin) to level up your productivity 🚀.
+
+_P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
+### 📫 How to reach me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/edvardshalaev/)
+- 📧 [Email](mailto:edvard@shalaev.com)
 ### About Me 🌱
-- [x] 🌙 Night-time coder, ☀️ Day-time debugger
-- [x] 🍔 Coding > Eating?
-- [x] 🌟 2 followers and counting!
-- [x] 🚗 Did you know even cars can be programmed?
+- 🌙 Night-time coder, ☀️ Day-time debugger
+- 🍔 Coding > Eating?
+- 🌟 2 followers and counting!
+- 🚗 Car Enthusiast: Did you know even cars can be programmed?
+- 🎮 Level 99 code wizard, Level 1 actual wizard
+- 🔄 Mistakes? Nah, just plot twists in my coding journey
 
+---
+<br>
+<h3 align="center">👁️ AI Tools I've Conquered 👁️</h3>
 <br>
 
-
-
-<div style="float: right; ">
-<h3>👁️ AI Tools I've Conquered 👁️</h3>
-  <ul style="list-style-type: none;">
-    <li>✔️ <a href="https://www.cursor.ai">Cursor</a></li>
-    <li>✔️ <a href="https://www.openai.com/chatgpt/">ChatGPT</a></li>
-    <li>✔️ <a href="https://gpt4all.io/index.html">GPT4ALL</a></li>
-    <li>✔️ <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">AUTO1111</a></li>
-    <li>🔄 <a href="https://platform.openai.com/docs/api-reference">GPT_API</a></li>
-    <li>❌ <a href="https://www.bloop.ai">bloop.ai</a></li>
-  </ul>
+<div align="center">
+<a href="https://www.cursor.sh" title="Cursor"><img src="https://www.cursor.sh/favicon.ico" alt="Cursor" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+<a href="https://www.openai.com/chatgpt/" title="ChatGPT"><img src="https://www.openai.com/favicon.ico" alt="ChatGPT" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+<a href="https://gpt4all.io/index.html" title="GPT4ALL"><img src="https://gpt4all.io/gpt4all-128.png" alt="GPT4ALL" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" title="AUTO1111"><img src="https://avatars.githubusercontent.com/u/20920490?v=4" alt="AUTO1111" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+<a href="https://platform.openai.com/docs/api-reference" title="GPT_API"><img src="https://openaiapi-site.azureedge.net/public-assets/d/4c56d72f06/favicon.png" alt="GPT_API" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+<a href="https://www.bloop.ai" title="bloop.ai"><img src="https://www.bloop.ai/favicon.ico" alt="bloop.ai" width="60" height="60"/></a>
 </div>
+<br>
 
-###  Technologies 🛠️
-<pre style="max-width: fit-content;">
-Language: 
-- JS/TS💳
-- Python🐍
-- Processing🌀
+---
+## 🎉 My Digital Playground: An Abridged Atlas 🗺️
 
-Frameworks: 
-- Angular
-- React
-- Node.js
-- Express.js
+**Language BFFs 🗨️🤙**  
+JavaScript/TypeScript 📚💻  |  Python 🐍🔪  |  Processing 🎨🌀
 
-Database: 
-- MongoDB
-- PostgreSQL
-- MySQL
+**Framework Ballroom 💃🕺**  
+Angular 👑🎶  |  React 🤸‍♂️⚡  |  Node.js 🎧🎵  |  Express.js 💃⚡
 
-Containerization: 
-- Docker
+**Trusty Treasure Chests 🗝️🔒**  
+MongoDB 📔🔗  |  PostgreSQL 🧙‍♂️🌌  |  MySQL 🌳💾
 
-Version controll: 
-- GitHub
-- GitLab
-</pre>
+**Containerization Crusader 🛡️⚔️**  
+Docker 🚢⚓
 
+**Guardians of My Code Galaxy 🌌🔭**  
+GitHub 🏛️🎉  |  GitLab 🏰🔒
