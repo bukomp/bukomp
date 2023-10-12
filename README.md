@@ -25,7 +25,6 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
 - 🔄 Mistakes? Nah, just plot twists in my coding journey
 
 ---
-<br>
 <h3 align="center">👁️ AI Tools I've Conquered 👁️</h3>
 <br>
 
@@ -37,7 +36,6 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
 <a href="https://platform.openai.com/docs/api-reference" title="GPT_API"><img src="https://openaiapi-site.azureedge.net/public-assets/d/4c56d72f06/favicon.png" alt="GPT_API" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
 <a href="https://www.bloop.ai" title="bloop.ai"><img src="https://www.bloop.ai/favicon.ico" alt="bloop.ai" width="60" height="60"/></a>
 </div>
-<br>
 
 ---
 ## 🎉 My Digital Playground: An Abridged Atlas 🗺️
