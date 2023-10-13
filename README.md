@@ -29,12 +29,15 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
 <br>
 
 <div align="center">
-<a href="https://www.cursor.sh" title="Cursor"><img src="https://www.cursor.sh/favicon.ico" alt="Cursor" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
-<a href="https://www.openai.com/chatgpt/" title="ChatGPT"><img src="https://www.openai.com/favicon.ico" alt="ChatGPT" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
-<a href="https://gpt4all.io/index.html" title="GPT4ALL"><img src="https://gpt4all.io/gpt4all-128.png" alt="GPT4ALL" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
-<a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" title="AUTO1111"><img src="https://avatars.githubusercontent.com/u/20920490?v=4" alt="AUTO1111" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
-<a href="https://platform.openai.com/docs/api-reference" title="GPT_API"><img src="https://openaiapi-site.azureedge.net/public-assets/d/4c56d72f06/favicon.png" alt="GPT_API" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
-<a href="https://www.bloop.ai" title="bloop.ai"><img src="https://www.bloop.ai/favicon.ico" alt="bloop.ai" width="60" height="60"/></a>
+  <a href="https://www.cursor.sh" title="Cursor"><img src="https://www.cursor.sh/favicon.ico" alt="Cursor" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://www.openai.com/chatgpt/" title="ChatGPT"><img src="https://www.openai.com/favicon.ico" alt="ChatGPT" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://gpt4all.io/index.html" title="GPT4ALL"><img src="https://gpt4all.io/gpt4all-128.png" alt="GPT4ALL" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" title="AUTO1111"><img src="https://avatars.githubusercontent.com/u/20920490?v=4" alt="AUTO1111" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://platform.openai.com/docs/api-reference" title="GPT_API"><img src="https://openaiapi-site.azureedge.net/public-assets/d/4c56d72f06/favicon.png" alt="GPT_API" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <!--
+    not yet mastered
+    <a href="https://www.bloop.ai" title="bloop.ai"><img src="https://www.bloop.ai/favicon.ico" alt="bloop.ai" width="60" height="60"/></a> 
+  -->
 </div>
 
 ---
