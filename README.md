@@ -10,7 +10,7 @@
 </div>
 
 ### Found Me, Huh? 😄
-Nice to meet you! ❤️ I'm a progress-driven developer who thrives on new challenges. Whether it's mastering back-end logic or sprucing up the frontend, I'm your guy. BTW, check out [Shorts Remover Plugin](https://github.com/bukomp/remove-shorts-plugin) to level up your productivity 🚀.
+Nice to meet you! ❤️ I'm a progress-driven developer who thrives on new challenges. Whether it's mastering back-end logic or sprucing up the frontend, I'm your guy. BTW, check out [Shorts Remover Plugin](https://github.com/bukomp/remove-shorts-plugin) to level up your productivity 🚀
 
 _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
 ### 📫 How to reach me
