@@ -43,17 +43,10 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
 ---
 ## 🎉 My Digital Playground: An Abridged Atlas 🗺️
 
-**Language BFFs 🗨️🤙**  
-JavaScript/TypeScript 📚💻  |  Python 🐍🔪  |  Processing 🎨🌀
-
-**Framework Ballroom 💃🕺**  
-Angular 👑🎶  |  React 🤸‍♂️⚡  |  Node.js 🎧🎵  |  Express.js 💃⚡
-
-**Trusty Treasure Chests 🗝️🔒**  
-MongoDB 📔🔗  |  PostgreSQL 🧙‍♂️🌌  |  MySQL 🌳💾
-
-**Containerization Crusader 🛡️⚔️**  
-Docker 🚢⚓
-
-**Guardians of My Code Galaxy 🌌🔭**  
-GitHub 🏛️🎉  |  GitLab 🏰🔒
+| Category                     | Technologies          |
+|------------------------------|-----------------------|
+| Language BFFs                | JavaScript, TypeScript, Python |
+| Framework Ballroom           | Angular, React, Node.js, Express.js        |
+| Trusty Treasure Chests       | MongoDB, PostgreSQL, MySQL                  |
+| Containerization Crusader    | Docker                                        |
+| Guardians of My Code Galaxy  | GitHub, GitLab   
