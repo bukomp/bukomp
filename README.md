@@ -33,7 +33,12 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
   <a href="https://www.openai.com/chatgpt/" title="ChatGPT"><img src="https://www.openai.com/favicon.ico" alt="ChatGPT" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
   <a href="https://gpt4all.io/index.html" title="GPT4ALL"><img src="https://gpt4all.io/gpt4all-128.png" alt="GPT4ALL" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" title="AUTO1111"><img src="https://avatars.githubusercontent.com/u/20920490?v=4" alt="AUTO1111" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
-  <a href="https://platform.openai.com/docs/api-reference" title="GPT_API"><img src="https://openaiapi-site.azureedge.net/public-assets/d/4c56d72f06/favicon.png" alt="GPT_API" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://platform.openai.com/docs/api-reference" title="GPT API"><img src="https://openaiapi-site.azureedge.net/public-assets/d/4c56d72f06/favicon.png" alt="GPT API" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://lmstudio.ai/" title="LM Studio"><img src="https://lmstudio.ai/assets/favicon.ico" alt="LM Studio" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://codeium.com/" title="Codeium"><img src="https://codeium.com/favicon.svg" alt="Codeium" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+  <a href="https://www.suno.ai/" title="Suno"><img src="https://www.suno.ai/favicon.svg" alt="Suno" width="60" height="60"/></a>ㅤ<!--invisible text on the left-->
+
+  
   <!--
     not yet mastered
     <a href="https://www.bloop.ai" title="bloop.ai"><img src="https://www.bloop.ai/favicon.ico" alt="bloop.ai" width="60" height="60"/></a> 
