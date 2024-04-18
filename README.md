@@ -19,7 +19,7 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
 ### About Me 🌱
 - 🌙 Night-time coder, ☀️ Day-time debugger
 - 🍔 Coding > Eating?
-- 🌟 3 followers and counting!
+- 🌟 4 followers and counting!
 - 🚗 Car Enthusiast: Did you know even cars can be programmed?
 - 🎮 Level 99 code wizard, Level 1 actual wizard
 - 🔄 Mistakes? Nah, just plot twists in my coding journey
