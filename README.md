@@ -46,6 +46,7 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
   -->
 </div>
 
+<!-- This needs refactoring. Will comment out for now!
 ---
 ## 🎉 My Digital Playground: An Abridged Atlas 🗺️
 
@@ -56,3 +57,4 @@ _P.S. Big on OpenAI, Stable-Diffusion, and LLMs! 🌌_
 | Trusty Treasure Chests       | MongoDB, PostgreSQL, MySQL                  |
 | Containerization Crusader    | Docker                                        |
 | Guardians of My Code Galaxy  | GitHub, GitLab   
+-->
