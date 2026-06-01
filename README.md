@@ -50,7 +50,7 @@ lately: LLMs, RAG, Stable Diffusion, and Rust. also built [Shorts Remover Plugin
 
 ### ╔══ STATS ══╗
 
-<kbd><!-- STATS:FOLLOWERS -->6<!-- /STATS:FOLLOWERS --> followers</kbd> · <kbd><!-- STATS:STARS -->1<!-- /STATS:STARS --> stars</kbd> · <kbd><!-- STATS:YEARS -->7<!-- /STATS:YEARS --> years on github</kbd>
+<kbd><!-- STATS:FOLLOWERS -->7<!-- /STATS:FOLLOWERS --> followers</kbd> · <kbd><!-- STATS:STARS -->1<!-- /STATS:STARS --> stars</kbd> · <kbd><!-- STATS:YEARS -->7<!-- /STATS:YEARS --> years on github</kbd>
 
 </div>
 
